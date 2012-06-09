@@ -1,0 +1,17 @@
+date: 20120415
+
+Points to places
+...a little science visualisation...
+
+a little Processing sketch where
+there are some circles that are attached
+to points (the destination points here),
+by an elastic 'string'.
+initially there's no drag or resistance,
+so the circles move around the destination 
+points like a perpetual pendulum.
+
+also initially the size of the circle is
+a reflection of their velocity.
+the faster they move, the larger they
+become.
