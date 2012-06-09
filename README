@@ -3,6 +3,8 @@ date: 20120415
 Points to places
 ...a little science pendulum/spring play...
 
+[ prerequisite: the Processing programming environment - http://processing.org/download ]
+
 [ usage:
 press somewhere on screen to restart the circle locations.
 check the Processing file for more extensive explanations
