@@ -1,7 +1,14 @@
 date: 20120415
 
 Points to places
-...a little science visualisation...
+...a little science pendulum/spring play...
+
+[ usage:
+press somewhere on screen to restart the circle locations.
+check the Processing file for more extensive explanations
+of the keyboard commands.
+quick tip: try the following keys:
+1,2,3,s,S,alt,up,down,left,right  ]
 
 a little Processing sketch where
 there are some circles that are attached
